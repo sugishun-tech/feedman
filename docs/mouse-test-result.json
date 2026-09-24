@@ -1,0 +1,18 @@
+{
+  "test": "native X11 mouse drags on all three GTK pane handles",
+  "passed": true,
+  "saved_state": {
+    "width": "1320",
+    "height": "860",
+    "maximized": "0",
+    "search": "116",
+    "sidebar": "372",
+    "list_vertical": "399",
+    "list_horizontal": "470",
+    "wide": "0",
+    "theme": "0",
+    "font": "12",
+    "threads": "8",
+    "published": "0"
+  }
+}

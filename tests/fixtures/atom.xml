@@ -1,0 +1,6 @@
+<?xml version="1.0"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xml:base="https://example.com/news/">
+<title>Atom fixture</title>
+<entry xml:base="section/"><id>urn:uuid:one</id><title type="html">Hello &lt;b&gt;Atom&lt;/b&gt;</title><link rel="self" href="entry.xml"/><link rel="alternate" href="article.html"/><published>2026-09-12T13:00:00+09:00</published><content type="xhtml"><div xmlns="http://www.w3.org/1999/xhtml"><p>日本語の本文</p><ul><li>項目</li></ul></div></content></entry>
+<entry><id>plain-two</id><title>Text</title><updated>2026-09-12T04:00:00Z</updated><content type="text">literal &lt;script&gt;not code&lt;/script&gt;</content></entry>
+</feed>

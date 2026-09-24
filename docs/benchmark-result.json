@@ -1,0 +1,1 @@
+{"benchmark":"local HTTP 16 feeds, 150ms response delay each, 20 entries per feed","threads_1_seconds":2.416598,"threads_8_seconds":0.311147,"speedup":7.767,"articles_each":320,"equal_result_count":true}

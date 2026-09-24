@@ -1,0 +1,5 @@
+# feedman subscriptions — optional-tag URL
+# Blank lines and # comments are ignored. One URL per line.
+# A tag is a single UTF-8 token; omit it or use - for no tag.
+IT https://www.techmeme.com/feed.xml
+経済 https://www.cnbc.com/id/10000664/device/rss/rss.html

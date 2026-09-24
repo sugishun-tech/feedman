@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+<channel><title>Example RSS</title>
+<item><guid isPermaLink="false">stable-id</guid><title>高速化と検索 &amp; C</title><link>/articles/one</link><pubDate>Sat, 12 Sep 2026 04:00:00 GMT</pubDate><description>short</description><content:encoded><![CDATA[<h2>本文の見出し</h2><p>京都市のニュースとC言語。</p><script>secret_script</script><p><a href="https://example.com">リンク</a></p>]]></content:encoded></item>
+<item><title>日付なし</title><description><![CDATA[<p>日付とリンクがない記事</p>]]></description></item>
+</channel></rss>

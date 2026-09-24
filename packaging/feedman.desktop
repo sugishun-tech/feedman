@@ -1,0 +1,11 @@
+[Desktop Entry]
+Type=Application
+Name=feedman
+Comment=Fast, local-first RSS and Atom reader
+Comment[ja]=C製のローカル保存型RSS・Atomリーダー
+Exec=feedman
+Icon=application-rss+xml
+Terminal=false
+Categories=Network;News;
+Keywords=RSS;Atom;Feed;Reader;
+StartupNotify=true

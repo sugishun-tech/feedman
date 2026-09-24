@@ -1,0 +1,18 @@
+feedman 1.0.0 — core test output
+
+PASS dates / timezone / invalid input
+PASS config / tags / URL policy / duplicates
+PASS RSS 2 / RSS 1 / Atom / XHTML / XXE / invalid XML
+PASS SQLite / persistent dedup / tags / Japanese search / dates / read state / update
+PASS parallel HTTP / ETag 304 / redirects / partial failures / size limit
+PASS cancellation / in-flight close safety
+PASS legacy JSON import / repeat import
+PASS all 159 checks
+
+GTK runtime GUI test output
+
+PASS GTK: date jump / invalid date / Japanese search / tag prefix / pagination / selection / pane positions / orientation / font / saved state
+
+GTK runtime ASan+UBSan output (detect_leaks=0)
+
+PASS GTK: date jump / invalid date / Japanese search / tag prefix / pagination / selection / pane positions / orientation / font / saved state
